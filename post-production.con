@@ -1,6 +1,6 @@
 switch S1 connects-with host A
 switch S1 connects-with host B
-switch S1 connects-with host SSS
+switch S1 connects-with host YYY
 switch S1 connects-with host D
 switch S1 connects-with host E
 switch S1 connects-with host F
